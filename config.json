@@ -1,0 +1,252 @@
+[
+    {
+        "name": "APP_NAME",
+        "value": "app-egypta",
+        "slotSetting": false
+    },
+    {
+        "name": "APP_ENV",
+        "value": "production",
+        "slotSetting": false
+    },
+    {
+        "name": "APP_KEY",
+        "value": "TODO",
+        "slotSetting": false
+    },
+    {
+        "name": "APP_DEBUG",
+        "value": "true",
+        "slotSetting": false
+    },
+    {
+        "name": "APP_URL",
+        "value": "https://app-egypta-massage.azurewebsites.net/",
+        "slotSetting": false
+    },
+    {
+        "name": "LOG_CHANNEL",
+        "value": "stack",
+        "slotSetting": false
+    },
+    {
+        "name": "LOG_DEPRECATIONS_CHANNEL",
+        "value": "null",
+        "slotSetting": false
+    },
+    {
+        "name": "LOG_LEVEL",
+        "value": "debug",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_CONNECTION",
+        "value": "mysql",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_HOST",
+        "value": "egyptamassage.mysql.database.azure.com",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_PORT",
+        "value": "3306",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_DATABASE",
+        "value": "egypta_massage_db",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_USERNAME",
+        "value": "marouanedbibih",
+        "slotSetting": false
+    },
+    {
+        "name": "DB_PASSWORD",
+        "value": "root@2023",
+        "slotSetting": false
+    },
+    {
+        "name": "BROADCAST_DRIVER",
+        "value": "log",
+        "slotSetting": false
+    },
+    {
+        "name": "CACHE_DRIVER",
+        "value": "file",
+        "slotSetting": false
+    },
+    {
+        "name": "FILESYSTEM_DISK",
+        "value": "local",
+        "slotSetting": false
+    },
+    {
+        "name": "QUEUE_CONNECTION",
+        "value": "sync",
+        "slotSetting": false
+    },
+    {
+        "name": "SESSION_DRIVER",
+        "value": "file",
+        "slotSetting": false
+    },
+    {
+        "name": "SESSION_LIFETIME",
+        "value": "120",
+        "slotSetting": false
+    },
+    {
+        "name": "MEMCACHED_HOST",
+        "value": "127.0.0.1",
+        "slotSetting": false
+    },
+    {
+        "name": "REDIS_HOST",
+        "value": "127.0.0.1",
+        "slotSetting": false
+    },
+    {
+        "name": "REDIS_PASSWORD",
+        "value": "null",
+        "slotSetting": false
+    },
+    {
+        "name": "REDIS_PORT",
+        "value": "6379",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_MAILER",
+        "value": "smtp",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_HOST",
+        "value": "mailpit",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_PORT",
+        "value": "1025",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_USERNAME",
+        "value": "null",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_PASSWORD",
+        "value": "null",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_ENCRYPTION",
+        "value": "null",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_FROM_ADDRESS",
+        "value": "hello@example.com",
+        "slotSetting": false
+    },
+    {
+        "name": "MAIL_FROM_NAME",
+        "value": "app-egypta",
+        "slotSetting": false
+    },
+    {
+        "name": "AWS_ACCESS_KEY_ID",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "AWS_SECRET_ACCESS_KEY",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "AWS_DEFAULT_REGION",
+        "value": "us-east-1",
+        "slotSetting": false
+    },
+    {
+        "name": "AWS_BUCKET",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "AWS_USE_PATH_STYLE_ENDPOINT",
+        "value": "false",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_APP_ID",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_APP_KEY",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_APP_SECRET",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_HOST",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_PORT",
+        "value": "443",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_SCHEME",
+        "value": "https",
+        "slotSetting": false
+    },
+    {
+        "name": "PUSHER_APP_CLUSTER",
+        "value": "mt1",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_APP_NAME",
+        "value": "app-egypta",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_PUSHER_APP_KEY",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_PUSHER_HOST",
+        "value": "",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_PUSHER_PORT",
+        "value": "443",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_PUSHER_SCHEME",
+        "value": "https",
+        "slotSetting": false
+    },
+    {
+        "name": "VITE_PUSHER_APP_CLUSTER",
+        "value": "mt1",
+        "slotSetting": false
+    }
+]

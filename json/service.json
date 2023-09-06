@@ -1,0 +1,28 @@
+{
+    "label":"Massage at home",
+    "description":"Massage description",
+    "categorie":"Massage",
+    "type_service":[
+        {
+            "label":"Massage 1",
+            "description":"Massage description 1",
+            "duration":[
+                {
+                    "price":50.56,
+                    "durration":60
+                }
+            ]
+        },
+        {
+            "label":"Massage 2",
+            "description":"Massage description 1",
+            "duration":[
+                {
+                    "price":56.56,
+                    "durration":90
+                }
+            ]
+        }
+
+    ]
+}
